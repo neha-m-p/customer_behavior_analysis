@@ -11,10 +11,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 🛠️ How to Use This Project
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone https://github.com/neha-m-p/customer_behavior_analysis.git
+cd customer_behavior_analysis
 
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+Open Customer_Behavior_Analysis.py
 
 This file contains:
 
@@ -26,7 +26,7 @@ Data cleaning
 
 Connection to SQL Database
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+Load the data from Python script into MySQL/PostgreSQL/MS SQL Server
 
 Create a database in SQL
 
